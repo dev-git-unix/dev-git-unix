@@ -13,17 +13,6 @@
 
 ---
 
-- ￼ Hardcore learning roadmap on: AI, Finance, Politics
-
----
-
-## ￼ My Philosophy
-> Code like an architect.  
-> Learn like a machine.  
-> Create like an artist.  
-> Move like a warrior.
-
----
 
 ## ￼ Featured Projects
 | Project | Tech | Description |
