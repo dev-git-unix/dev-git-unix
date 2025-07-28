@@ -1,6 +1,6 @@
 # ￼ Hi, I'm `dev-git-unix`
 
-### ￼ Engineer | ￼ Developer | ￼ Musician | ￼ Artist | ￼ Hacker-Mindset
+### ￼ Engineer | ￼ Developer | ￼ Artist |
 
 ---
 
