@@ -1,16 +1,43 @@
-## Hi there 👋
+# ￼ Hi, I'm `dev-git-unix`
 
-<!--
-**dev-git-unix/dev-git-unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ￼ Engineer | ￼ Developer | ￼ Musician | ￼ Artist | ￼ Hacker-Mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ￼ Technologies & Tools
+![Languages](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+---
+
+- ￼ Hardcore learning roadmap on: AI, Finance, Politics
+
+---
+
+## ￼ My Philosophy
+> Code like an architect.  
+> Learn like a machine.  
+> Create like an artist.  
+> Move like a warrior.
+
+---
+
+## ￼ Featured Projects
+| Project | Tech | Description |
+|--------|------|-------------|
+
+---
+
+## ￼ Goals for 2025
+- Create content that merges tech & art
+
+---
+
+## ￼ Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anunayprakash)
+[![Twitter](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/yourhandle)
+
+---
